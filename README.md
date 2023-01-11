@@ -1,2 +1,5 @@
-# hype-gpt-3-landing
-landing for hype gpt-3
+hype-gpt-3-landing
+
+npm i
+>>>
+npm start
